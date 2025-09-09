@@ -1,0 +1,7 @@
+D:\home\larissa_25340\Documents\Projeto Soma\bin\Debug\Projeto Soma.exe.config
+D:\home\larissa_25340\Documents\Projeto Soma\bin\Debug\Projeto Soma.exe
+D:\home\larissa_25340\Documents\Projeto Soma\bin\Debug\Projeto Soma.pdb
+D:\home\larissa_25340\Documents\Projeto Soma\obj\Debug\Projeto Soma.csproj.AssemblyReference.cache
+D:\home\larissa_25340\Documents\Projeto Soma\obj\Debug\Projeto Soma.csproj.CoreCompileInputs.cache
+D:\home\larissa_25340\Documents\Projeto Soma\obj\Debug\Projeto Soma.exe
+D:\home\larissa_25340\Documents\Projeto Soma\obj\Debug\Projeto Soma.pdb
