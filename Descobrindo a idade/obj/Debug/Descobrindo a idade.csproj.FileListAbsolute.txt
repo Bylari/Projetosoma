@@ -1,0 +1,7 @@
+D:\home\larissa_25340\Documents\Descobrindo a idade\bin\Debug\Descobrindo a idade.exe.config
+D:\home\larissa_25340\Documents\Descobrindo a idade\bin\Debug\Descobrindo a idade.exe
+D:\home\larissa_25340\Documents\Descobrindo a idade\bin\Debug\Descobrindo a idade.pdb
+D:\home\larissa_25340\Documents\Descobrindo a idade\obj\Debug\Descobrindo a idade.csproj.AssemblyReference.cache
+D:\home\larissa_25340\Documents\Descobrindo a idade\obj\Debug\Descobrindo a idade.csproj.CoreCompileInputs.cache
+D:\home\larissa_25340\Documents\Descobrindo a idade\obj\Debug\Descobrindo a idade.exe
+D:\home\larissa_25340\Documents\Descobrindo a idade\obj\Debug\Descobrindo a idade.pdb
