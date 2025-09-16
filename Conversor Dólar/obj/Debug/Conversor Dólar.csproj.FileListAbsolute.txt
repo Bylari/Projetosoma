@@ -1,0 +1,7 @@
+D:\home\larissa_25340\Documents\Conversor Dólar\bin\Debug\Conversor Dólar.exe.config
+D:\home\larissa_25340\Documents\Conversor Dólar\bin\Debug\Conversor Dólar.exe
+D:\home\larissa_25340\Documents\Conversor Dólar\bin\Debug\Conversor Dólar.pdb
+D:\home\larissa_25340\Documents\Conversor Dólar\obj\Debug\Conversor Dólar.csproj.AssemblyReference.cache
+D:\home\larissa_25340\Documents\Conversor Dólar\obj\Debug\Conversor Dólar.csproj.CoreCompileInputs.cache
+D:\home\larissa_25340\Documents\Conversor Dólar\obj\Debug\Conversor Dólar.exe
+D:\home\larissa_25340\Documents\Conversor Dólar\obj\Debug\Conversor Dólar.pdb
