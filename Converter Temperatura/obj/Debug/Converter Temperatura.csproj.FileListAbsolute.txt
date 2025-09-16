@@ -1,0 +1,7 @@
+D:\home\larissa_25340\Documents\Converter Temperatura\obj\Debug\Converter Temperatura.csproj.AssemblyReference.cache
+D:\home\larissa_25340\Documents\Converter Temperatura\obj\Debug\Converter Temperatura.csproj.CoreCompileInputs.cache
+D:\home\larissa_25340\Documents\Converter Temperatura\bin\Debug\Converter Temperatura.exe.config
+D:\home\larissa_25340\Documents\Converter Temperatura\bin\Debug\Converter Temperatura.exe
+D:\home\larissa_25340\Documents\Converter Temperatura\bin\Debug\Converter Temperatura.pdb
+D:\home\larissa_25340\Documents\Converter Temperatura\obj\Debug\Converter Temperatura.exe
+D:\home\larissa_25340\Documents\Converter Temperatura\obj\Debug\Converter Temperatura.pdb
